@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I am Ojas. As a college student studying computer science, I am passionate about learning and experimenting with new technologies. I am always eager to apply my knowledge in real-world projects and to contribute to the open-source community. My current focus is on web development and machine learning. In my free time, I enjoy working on personal projects and participating in hackathons. I am always open to new opportunities and collaborations. I am currently a sophomore in Computer Science with Artificial Intelligence at Netaji Subhas University of Technology. My focus areas include Algorithms, Data Structures, Web development and Machine Learning.
+Hi, I'm Ojas! I'm a 4th year B.Tech student in Computer Science and Engineering with Artificial Intelligence at NSUT, Delhi. Passionate about software development, AI/ML, and blockchain, I've interned as a Technology Analyst at Morgan Stanley and as a Software Engineer at Mahindra Logistics. My tech stack includes Python, Java, JavaScript, React, and Spring Boot, with experience in AI frameworks like PyTorch. I've won hackathons, judged robotics competitions, and worked on projects ranging from blockchain-based document verification to reinforcement learning. Always eager to learn and collaborate on innovative tech solutions!
+
 
 
 ## 🌐 Socials:
